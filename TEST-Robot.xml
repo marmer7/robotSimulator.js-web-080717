@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="1" errors="0" failures="1" time="0.003" timestamp="2017-09-21T11:03:33">
+		<testcase classname="Robot" name="encountered a declaration exception" time="0.002">
+			<failure type="" message="ReferenceError: Can&amp;apos;t find variable: Robot in file:///Users/marlonmerjos/Development/fi_labs/module_3/robotSimulator.js-web-080717/spec/robot.spec.js (line 4)">
+file:///Users/marlonmerjos/Development/fi_labs/module_3/robotSimulator.js-web-080717/spec/robot.spec.js:4:24
+describe@file:///Users/marlonmerjos/Development/fi_labs/module_3/robotSimulator.js-web-080717/tmpTestSupport/jasmine.js:613:29
+describe@file:///Users/marlonmerjos/Development/fi_labs/module_3/robotSimulator.js-web-080717/tmpTestSupport/boot.js:37:26
+global code@file:///Users/marlonmerjos/Development/fi_labs/module_3/robotSimulator.js-web-080717/spec/robot.spec.js:3:9			</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+
